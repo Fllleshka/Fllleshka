@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fllleshka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Fllleshka&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="129" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fllleshka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="129" alt="languages graph"  />
 </div>
 
 ###
@@ -36,10 +37,15 @@
   <a href="https://www.instagram.com/fleshkaomsk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="34" alt="instagram logo"  />
   </a>
-  <a href="mailto:fleisner.omsk@gmail.com" target="_blank">
+  <a href="<a href="mailto:fleisner.omsk@gmail.com"></a>" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="34" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Fllleshka/Fllleshka/output/snake.svg" alt="Snake animation" />
+
+###
