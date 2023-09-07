@@ -36,15 +36,10 @@
   <a href="https://www.instagram.com/fleshkaomsk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="34" alt="instagram logo"  />
   </a>
-  <a href="<a href="mailto:fleisner.omsk@gmail.com"></a>" target="_blank">
+  <a href="mailto:fleisner.omsk@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="34" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Fllleshka/Fllleshka/output/snake.svg" alt="Snake animation" />
-
-###
